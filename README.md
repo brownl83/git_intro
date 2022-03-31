@@ -1,1 +1,2 @@
-"Lucas Brown" 
+Lucas Brown
+brownl@oregonstate.edu
